@@ -48,6 +48,8 @@ main {
 #Score {
     position: absolute;
     color: white;
+    top: 4%;
+    left: 2%;
 }
 #target {
     width: 30px;
