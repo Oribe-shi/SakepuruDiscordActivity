@@ -48,8 +48,9 @@ main {
 #Score {
     position: absolute;
     color: white;
-    top: 4%;
-    left: 2%;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 #target {
     width: 30px;

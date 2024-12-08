@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div
             id="app"
-            style={{ width: "80%", height: "80%", margin: "auto" }}
+            style={{ width: "100%", height: "100%", margin: "0" }}
             dangerouslySetInnerHTML={{ __html: htmlContent }}
         />
     );
